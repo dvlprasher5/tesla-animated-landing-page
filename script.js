@@ -113,8 +113,7 @@ class SetCSSVariables extends React.Component {
   }
 }
 
-/* Slide aside
-    -------------------------------------------------------------- */ _defineProperty(
+/* Slide aside */ _defineProperty(
   SetCSSVariables,
   "PropTypes",
   { cssVariables: PropTypes.object.isRequired, className: PropTypes.string },
@@ -122,9 +121,9 @@ class SetCSSVariables extends React.Component {
 
 function SlideAside(props) {
   const activeCar = props.activeCar;
-  return /*#__PURE__*/ React.createElement(
+  return React.createElement(
     "div",
-    { className: "tesla-slide-aside" } /*#__PURE__*/,
+    { className: "tesla-slide-aside" },
     React.createElement(
       "h1",
       { className: "tesla-slide-aside__wholename" } /*#__PURE__*/,

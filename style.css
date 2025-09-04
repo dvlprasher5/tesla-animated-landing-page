@@ -84,6 +84,7 @@ body {
 }
 
 /* Headers */
+
 h1 {
   margin: 0;
   font-size: 5.5rem;
@@ -108,8 +109,8 @@ h1 {
   }
 }
 
-/* Text, Links
--------------------------------------------------------------- */
+/* Text, Links */
+
 a {
   text-decoration: none;
   color: #fff;
