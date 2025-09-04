@@ -664,8 +664,10 @@ a {
   z-index: 1;
 }
 
-/* Slide Params
-  -------------------------------------------------------------- */
+/* Slide Params */
+
+/* github.com/@dvlprasher5 */
+
 .tesla-slide-params {
   margin: 250px 0 30px;
 }
