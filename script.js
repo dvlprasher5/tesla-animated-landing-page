@@ -100,8 +100,7 @@ const slides = [
   },
 ];
 
-/* Set CSS Variables
- */
+/* Set CSS Variables */
 class SetCSSVariables extends React.Component {
   componentWillReceiveProps(props) {
     Object.keys(props.cssVariables).forEach(function (key) {
