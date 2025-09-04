@@ -14,7 +14,6 @@ function _defineProperty(obj, key, value) {
 const { TransitionGroup, CSSTransition } = ReactTransitionGroup;
 
 /* Slides data */
-
 const roadsterFloorImg =
     "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1780138/roadster-floor.png",
   roadsterImg =
